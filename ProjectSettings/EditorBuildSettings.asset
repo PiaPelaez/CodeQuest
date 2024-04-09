@@ -17,6 +17,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Welcome.unity
     guid: 7dd36cfe57e80144db684c6a25216fa3
+  - enabled: 1
+    path: Assets/Scenes/Storyline.unity
+    guid: e4a4b87541717ec4b85164fb78101ece
+  - enabled: 1
+    path: Assets/Scenes/LoopsIntro.unity
+    guid: ff9d10b80b542fa48bbf824e090dfd93
+  - enabled: 1
+    path: Assets/Scenes/AdaIntro.unity
+    guid: c2a2cb41d4ef6da44a21218567c14ed3
+  - enabled: 1
+    path: Assets/Scenes/IntroGame.unity
+    guid: e724f00b23a26834aa244b21c163350c
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ae0b32fe86a199a49a232db2ec6cc223,
       type: 2}
