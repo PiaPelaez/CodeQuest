@@ -53,6 +53,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Tim.unity
     guid: 315d20fe5fb0466439d611db8ebf46ca
+  - enabled: 1
+    path: Assets/Scenes/AdaInventory.unity
+    guid: d15324dbe31552d41b37edb363997fae
+  - enabled: 1
+    path: Assets/Scenes/BillInventory.unity
+    guid: 48ab4821b3a0e2241938718a2f9b3e2d
+  - enabled: 1
+    path: Assets/Scenes/MargaretInventory.unity
+    guid: c813cb6a0e7b5d642808ae57c05c3a7e
+  - enabled: 1
+    path: Assets/Scenes/TimInventory.unity
+    guid: 0cce1c9bea890144b9b0e2445f3d6883
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ae0b32fe86a199a49a232db2ec6cc223,
       type: 2}
