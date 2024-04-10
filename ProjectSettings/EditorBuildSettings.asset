@@ -41,6 +41,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Heroes.unity
     guid: f47d528af3a56e8478cdb9d950cb38c9
+  - enabled: 1
+    path: Assets/Scenes/Ada.unity
+    guid: cbb899b17a60e294c8a1da61d811424e
+  - enabled: 1
+    path: Assets/Scenes/Bill.unity
+    guid: 3121900024a236643949000a9688df20
+  - enabled: 1
+    path: Assets/Scenes/Margaret.unity
+    guid: 37d52487d5ccffd449c2384179fc2bdb
+  - enabled: 1
+    path: Assets/Scenes/Tim.unity
+    guid: 315d20fe5fb0466439d611db8ebf46ca
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ae0b32fe86a199a49a232db2ec6cc223,
       type: 2}
