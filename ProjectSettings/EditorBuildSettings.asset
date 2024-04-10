@@ -65,6 +65,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/TimInventory.unity
     guid: 0cce1c9bea890144b9b0e2445f3d6883
+  - enabled: 1
+    path: Assets/Scenes/Glossary.unity
+    guid: da36654646e6ee04ea42c52cc839f749
+  - enabled: 1
+    path: Assets/Scenes/ForGlossary.unity
+    guid: 5f440481130181748967c4a0b6f3747a
+  - enabled: 1
+    path: Assets/Scenes/DoGlossary.unity
+    guid: a8c95e9d5cbd6d248ab2c04169616925
+  - enabled: 1
+    path: Assets/Scenes/WhileGlossary.unity
+    guid: 1a1d1f63c5e5d804c886924cfe3d13a0
+  - enabled: 1
+    path: Assets/Scenes/Market.unity
+    guid: 29509c76412721d4cad75b32e7f1caf3
+  - enabled: 1
+    path: Assets/Scenes/Pause.unity
+    guid: 50396878dd7754744a187ddd9df58c5e
   m_configObjects:
     com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: ae0b32fe86a199a49a232db2ec6cc223,
       type: 2}
